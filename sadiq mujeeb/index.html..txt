@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>LIONEL MESSI BIOGRAPHY</title>
+
+
+<style>
+   body { 
+       background-image: url("background.jpg");
+       background-size: cover;
+       background-position:center;
+
+     <h1>welcome to my website<h1>
+     <p>This is my first webpage.</p>
+
+     <h2>About me</h2>
+     <p>my name is sadiq.</p>
+
+     <button>click me</button>
+
+</body>
+</html>
